@@ -1,4 +1,4 @@
-.w3-container {
+.w1-container1 {
 	padding: 20px;
 }
 .box_white1 {
@@ -8,7 +8,7 @@
 }
 .box_white2 {
   padding: 20px;
-  color: black;
+  color: rgb(6, 163, 181);
   background: white;
 }
 .box_white3 {
@@ -22,7 +22,7 @@
   background: white;
 }
 
-.w3-container2 {
+.w1-container2 {
 	padding: 20px;
 	color: black;
 	background: white;
