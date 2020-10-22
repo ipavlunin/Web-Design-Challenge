@@ -3,28 +3,22 @@
 }
 .box_white1 {
   padding: 20px;
-  color: rgb(6, 163, 181);
+  color: #038c8c;
   background: white;
 }
 .box_white2 {
   padding: 20px;
-  color: rgb(6, 163, 181);
-  background: white;
-}
-.box_white3 {
-  padding: 60px;
-  color: black;
+  color: #038c8c;
   background: white;
 }
 .box_white_big {
   padding: 20px;
-  color: black;
+  color: #038c8c;
   background: white;
 }
-
 .w1-container2 {
 	padding: 20px;
-	color: black;
+	color: #038c8c;
 	background: white;
 }
 .body {
