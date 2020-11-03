@@ -14,7 +14,7 @@ Building this dashboard, I'll create individual pages for each plot and a means 
 Website published on GitHub Pages: [Weather Dashboard]()
 
 The Weather Dashboard contains the following pages:
-- Latitude [Index](index.html)
+- Latitude [Index](Index.html)
     - The main project page displaying a summary of the project and vizualization links
 - Max Temperature [MaxTemp](WebViz/Max_Temp.html)
     - Page dispaying vizualization for max temperature and link to other related website pages
