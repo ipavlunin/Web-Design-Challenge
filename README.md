@@ -22,7 +22,7 @@ The Weather Dashboard contains the following pages:
     - Page dispaying vizualization for humidity and links to other related website pages
 - [Cloudiness](WebViz/cloudiness.html)
     - Page dispaying vizualization for cloudiness and links to other related website pages
-- [Wind Speed](WebVix/wind_speed.html)
+- [Wind Speed](WebViz/wind_speed.html)
     - Page dispaying vizualization for wind speed and links to other related website pages
 - [Comparison](WebViz/comparison.html)
     - Page dispaying all vizualizationa together. Clicking on each vizualisation will lead to correspondent vizualization page
