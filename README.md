@@ -11,7 +11,7 @@ Building this dashboard, I'll create individual pages for each plot and a means 
 
 ### Website Structure
 
-Website published on GitHub Pages: [Weather Dashboard]()
+Website published on GitHub Pages: [Weather Dashboard](https://ipavlunin.github.io/Web-Design-Challenge/)
 
 The Weather Dashboard contains the following pages:
 - Latitude
