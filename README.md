@@ -17,14 +17,14 @@ The Weather Dashboard contains the following pages:
 - Latitude [Index](Index.html)
     - The main project page displaying a summary of the project and vizualization links
 - Max Temperature [MaxTemp](WebViz/Max_Temp.html)
-    - Page dispaying vizualization for max temperature and link to other related website pages
+    - Page dispaying vizualization for max temperature and links to other related website pages
 - Humidity [Humidity](WebViz/Humidity.html)
-    - Page dispaying vizualization for humidity and link to other related website pages
-- Cloudiness (cloudiness.html)
-    - Displays the cloudiness visualization and links to other visualizations.  The current page is shown as active.
-- Wind Speed (wind_speed.html)
-    - Displays the wind speed visualization and links to other visualizations.  The current page is shown as active.
-- Comparison (comparison.html)
-        - Displays the all four visualizations. Each visualization is a link to their individual page.
-- Data (data.html)
-        - Displays the source tabular data for the project.
+    - Page dispaying vizualization for humidity and links to other related website pages
+- Cloudiness [Cloudiness](WebViz/Cloudiness.html)
+    - Page dispaying vizualization for cloudiness and links to other related website pages
+- Wind Speed [Wind Speed](WebVix/Wind_Speed.html)
+    - Page dispaying vizualization for wind speed and links to other related website pages
+- Comparison [Comparison](WebViz/Comparison.html)
+    - Page dispaying all vizualizationa together. Clicking on each vizualisation will lead to correspondent vizualization page
+- Data [Data](WebViz/Data.html)
+    - Page dispaying the source of tabular data used in the project
