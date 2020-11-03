@@ -14,12 +14,12 @@ Building this dashboard, I'll create individual pages for each plot and a means 
 Website published on GitHub Pages: [Weather Dashboard]()
 
 The Weather Dashboard contains the following pages:
-- Latitude (index.html)
+- Latitude [Index](index.html)
     - The main project page displaying a summary of the project and vizualization links
-- Max Temperature (maxtemps.html)
-    - Displays the max temperature visualization and links to other visualizations.  The current page is shown as active.
-- Humidity (humidity)
-    - Displays the humidity visualization and links to other visualizations.  The current page is shown as active.
+- Max Temperature [MaxTemp](WebViz/Max_Temp.html)
+    - Page dispaying vizualization for max temperature and link to other related website pages
+- Humidity [Humidity](WebViz/Humidity.html)
+    - Page dispaying vizualization for humidity and link to other related website pages
 - Cloudiness (cloudiness.html)
     - Displays the cloudiness visualization and links to other visualizations.  The current page is shown as active.
 - Wind Speed (wind_speed.html)
