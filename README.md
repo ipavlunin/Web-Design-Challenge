@@ -14,17 +14,17 @@ Building this dashboard, I'll create individual pages for each plot and a means 
 Website published on GitHub Pages: [Weather Dashboard]()
 
 The Weather Dashboard contains the following pages:
-- Latitude [Index](Index.html)
+- [Latitude](Index.html)
     - The main project page displaying a summary of the project and vizualization links
-- Max Temperature [MaxTemp](WebViz/Max_Temp.html)
+- [Max Temperature](WebViz/Max_Temp.html)
     - Page dispaying vizualization for max temperature and links to other related website pages
-- Humidity [Humidity](WebViz/Humidity.html)
+- [Humidity](WebViz/Humidity.html)
     - Page dispaying vizualization for humidity and links to other related website pages
-- Cloudiness [Cloudiness](WebViz/Cloudiness.html)
+- [Cloudiness](WebViz/Cloudiness.html)
     - Page dispaying vizualization for cloudiness and links to other related website pages
-- Wind Speed [Wind Speed](WebVix/Wind_Speed.html)
+- [Wind Speed](WebVix/Wind_Speed.html)
     - Page dispaying vizualization for wind speed and links to other related website pages
-- Comparison [Comparison](WebViz/Comparison.html)
+- [Comparison](WebViz/Comparison.html)
     - Page dispaying all vizualizationa together. Clicking on each vizualisation will lead to correspondent vizualization page
-- Data [Data](WebViz/Data.html)
+- [Data](WebViz/Data.html)
     - Page dispaying the source of tabular data used in the project
